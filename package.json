@@ -1,0 +1,24 @@
+{
+  "name": "snakejs",
+  "version": "1.0.0",
+  "description": "A simple snake game in javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okynas/snakeJS.git"
+  },
+  "keywords": [
+    "snakejs",
+    "javascript",
+    "simple game",
+  ],
+  "author": "OkYNaS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okynas/snakeJS/issues"
+  },
+  "homepage": "https://github.com/okynas/snakeJS#readme"
+}
