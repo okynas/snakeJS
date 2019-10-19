@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # SnakeJS
 
 A simple snake game written in javascript.
@@ -22,7 +24,7 @@ Thats it 😊
 
 ## Authors
 
-* **OkYNaS** - *Initial work* - [PurpleBooth](https://github.com/okynas)
+* **OkYNaS** - *Initial work* - [OkYNaS](https://github.com/okynas)
 
 ## License
 
